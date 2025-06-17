@@ -1,0 +1,7 @@
+python-dotenv
+google-cloud-vision
+opencv-python
+Pillow
+PyMuPDF
+pandas
+xlsxwriter
