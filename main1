@@ -1,0 +1,7 @@
+# 在本機專案資料夾裡：
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main  # 把預設分支改為 main
+git remote add origin https://github.com/你的帳號/你的repo.git
+git push -u origin main
