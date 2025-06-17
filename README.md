@@ -30,4 +30,4 @@ GOOGLE_APPLICATION_CREDENTIALS=./my_gcv_key.json
 - `app.py`：主要 Streamlit 應用程式
 - `requirements.txt`：所需 Python 套件
 - `.gitignore`：Git 忽略設定
-- `.env.example`：範例環境變數
+- `.env.example`：範例環境變數"# force deploy" 
